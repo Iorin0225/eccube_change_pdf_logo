@@ -2,7 +2,7 @@
 /*
  * ChangePDFLogo
  * Copyright (C) 2013 S-cubism All rights reserved.
- * http://s-cubism.jp
+ * http://ec-cube.ec-orange.jp/
  *
  * This library is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Lesser General Public
@@ -34,15 +34,15 @@ class plugin_info{
     /** プラグインバージョン(必須)：プラグインのバージョン. */
     static $PLUGIN_VERSION    = "1.0";
     /** 対応バージョン(必須)：対応するEC-CUBEバージョン. */
-    static $COMPLIANT_VERSION = "2.12.2";
+    static $COMPLIANT_VERSION = "2.12.3";
     /** 作者(必須)：プラグイン作者. */
-    static $AUTHOR            = "S-cubism";
+    static $AUTHOR            = "株式会社エスキュービズム";
     /** 説明(必須)：プラグインの説明. */
     static $DESCRIPTION       = "納品書のPDFを出力する際のロゴを、管理画面から変更できるようにします。";
     /** プラグインURL：プラグイン毎に設定出来るURL（説明ページなど） */
-    static $PLUGIN_SITE_URL   = "http://s-cubism.jp/";
+    static $PLUGIN_SITE_URL   = "http://ec-cube.ec-orange.jp/";
     /** プラグイン作者URL：プラグイン毎に設定出来るURL（説明ページなど） */
-    static $AUTHOR_SITE_URL   = "http://s-cubism.jp/";
+    static $AUTHOR_SITE_URL   = "http://ec-cube.ec-orange.jp/";
     /** クラス名(必須)：プラグインのクラス（拡張子は含まない） */
     static $CLASS_NAME        = "ChangePDFLogo";
     /** フックポイント：フックポイントとコールバック関数を定義します */

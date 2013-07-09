@@ -2,7 +2,7 @@
  *
  * LogoPDFChange
  * Copyright (C) 2013 S-cubism All rights reserved.
- * http://s-cubism.jp
+ * http://ec-cube.ec-orange.jp/
  *
  * This library is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Lesser General Public
